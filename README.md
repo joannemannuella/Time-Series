@@ -14,8 +14,8 @@ To gain proficiency in the following tasks:
 
 ## This Repository consist of two Analysis :
 
-*[Time Series Analysis]https://github.com/joannemannuella/Time-Series/blob/main/Analysis/time_series_analysis.ipynb
-*[Regression Analysis](https://github.com/joannemannuella/Time-Series/blob/main/Analysis/regression_analysis.ipynb)
+* [Time Series Analysis](https://github.com/joannemannuella/Time-Series/blob/main/Analysis/time_series_analysis.ipynb)
+* [Regression Analysis](https://github.com/joannemannuella/Time-Series/blob/main/Analysis/regression_analysis.ipynb)
 
 # The Conclusion and Summary from data and analysis done are 
 
